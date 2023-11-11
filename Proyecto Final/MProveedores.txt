@@ -1,0 +1,8 @@
+[ Menu Proveedores ]
+[  Elegir Opcion   ]
+[                  ]
+[ 1. Consulta      ]
+[ 2. Agregar       ]
+[ 3. Eliminar      ]
+[ 4. Modificar     ]
+[ 5. Retroceder    ]

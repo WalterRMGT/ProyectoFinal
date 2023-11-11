@@ -1,0 +1,8 @@
+[  Elegir Opcion   ]
+[ 1. Clientes      ]
+[ 2. Facturas      ]
+[ 3. Productos     ]
+[ 4. Inventario    ]
+[ 5. Proveedores   ]
+[ 6. Ventas/Compras]
+[ 7. Salir	   ]

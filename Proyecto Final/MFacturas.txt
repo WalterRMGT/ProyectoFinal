@@ -1,0 +1,6 @@
+[  Menu Facturas   ]
+[  Elegir Opcion   ]
+[                  ]
+[ 1. Ventas        ]
+[ 2. Compras       ]
+[ 3. Retroceder    ]

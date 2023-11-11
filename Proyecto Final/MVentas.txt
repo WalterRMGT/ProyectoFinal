@@ -1,0 +1,6 @@
+[   Menu Ventas      ]
+[  Elegir Opcion     ]
+[                    ]
+[ 1. Ingresar Venta  ]
+[ 2. Ingresar Compras]
+[ 3. Retroceder      ]

@@ -1,0 +1,6 @@
+[ Menu Inventario  ]
+[  Elegir Opcion   ]
+[                  ]
+[ 1. Consulta      ]
+[ 2. Modificar     ]
+[ 3. Retroceder    ]
